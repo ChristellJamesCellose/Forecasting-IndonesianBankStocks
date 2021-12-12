@@ -118,7 +118,7 @@ def main():
     # front end elements of the web page 
     html_temp = """ 
     <div style ="background-color:yellow;padding:13px"> 
-    <h1 style ="color:black;text-align:center;">Streamlit Forecasting Bank Stock Price App</h1> 
+    <h1 style ="color:black;text-align:center;">Forecasting Indonesian Bank Stock Price App</h1> 
     </div> 
     """
       
