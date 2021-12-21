@@ -1,5 +1,7 @@
 # Forecasting-IndonesianBankStocks
 
+https://forecast-indonesianbankstocks.herokuapp.com/
+
 Tema Proyek : Implementasi Data Science dan Machine Learning dalam Usaha Percepatan Pemulihan Ekonomi di Masa Pandemi
 
 Judul Proyek : Prediksi Harga Saham Bank Melalui Analisis Time Series dengan Menggunakan Model Machine Learning
