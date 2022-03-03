@@ -10,4 +10,4 @@ Deskripsi Masalah : Indeks pasar saham telah menjadi salah satu indikator utama 
 
 Kami menggunakan data sekunder berupa data historis harga saham dari bank besar (major banks) di Indonesia, di antaranya Bank BCA, Bank BNI, dan juga yang diperoleh dari Dataset Bank Indonesia dan Yahoo Finance untuk melakukan analisis serta membangun model untuk prediksi harga saham (stock price forecasting).
 
-I am editing the README file. Adding some more details about the project description.
+I am configuring the README file. Adding some more details about the project description.
